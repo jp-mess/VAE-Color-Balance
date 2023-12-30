@@ -1,4 +1,4 @@
-# Latent Space Color Balancing
+# Latent Space Color Balance
 
 This repository contains the code for the color tweaking algorithm found here: [Advanced ML Color Fixes](https://messy-bytes.github.io/Advanced-ML-Color-Fixes/).
 

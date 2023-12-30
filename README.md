@@ -1,5 +1,11 @@
 # Latent Space Color Balance
 
+<p align="center">
+  <img src="plots/model.png" alt="Model Visualization">
+</p>
+
+<br>
+
 This repository contains the code for the color tweaking algorithm found here: [Advanced ML Color Fixes](https://messy-bytes.github.io/Advanced-ML-Color-Fixes/).
 
 ## Reassembling the network weights

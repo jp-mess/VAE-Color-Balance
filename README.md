@@ -6,7 +6,7 @@
 
 <br>
 
-This repository contains the code for the color tweaking algorithm found here: [Advanced ML Color Fixes](https://messy-bytes.github.io/Advanced-ML-Color-Fixes/).
+This repository contains the code for the [color tweaking algorithm found here](https://messy-bytes.github.io/Advanced-ML-Color-Fixes/), and my [LinkedIn is here](https://www.linkedin.com/in/jack-messerly-567b9b96/) 
 
 ## Reassembling the network weights
 

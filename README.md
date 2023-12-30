@@ -25,8 +25,7 @@ Before running the project, set up a Python virtual environment and install the 
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Unix or macOS
-venv\Scripts\activate     # On Windows
+source venv/bin/activate
 
 pip install -r requirements.txt
 ```

@@ -34,13 +34,15 @@ pip install -r requirements.txt
 
 ## Running the Algorithm
 
-To test the algorithm, use `test.py` with the `--image` and `--iterations` flags. Sample images are provided in the `images/` folder. For additional images, particularly those with bad colored lighting, explore [pexels.com](https://www.pexels.com). You can use the `load_url` function to add new images to the `images/` folder using URLs:
+To test the algorithm, use `test.py` with the `--image` and `--iterations` flags. Sample images are provided in the `images/` folder.
 
 ```bash
 python test.py --image images/model.png --iterations 1
 ```
 
 As discussed in the main project page, the number if iterations is how many times the networks are recursively applied. More applications will generally result in better results, although it does saturate after a few. Often, less is better, although I haven't noticed that it ever truly "diverges", i.e. it is relatively stable. The algorithm will run on your cpu, and each iteration tends to take 3-5 seconds.
+
+For additional images, explore [pexels.com](https://www.pexels.com). I took most of my samples from this website (search bad or mixed colored lighting). You can use the `load_url` function to add new images to the `images/` folder using URLs.
 
 ## License
 

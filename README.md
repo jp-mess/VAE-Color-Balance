@@ -6,7 +6,7 @@
 
 <br>
 
-This repository contains the code for the [color tweaking algorithm found here](https://jp-mess.github.io/Advanced-ML-Color-Fixes/). Note: this repository is large (~100MB), because I've included the weights for the rebalancer network (instead of putting it on Git LFS)
+This repository contains the code for the [color tweaking algorithm found here](https://github.com/jp-mess/vae-color-article). Note: this repository is large (~100MB), because I've included the weights for the rebalancer network (instead of putting it on Git LFS)
 
 ## Reassembling the network weights
 
